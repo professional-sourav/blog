@@ -1,0 +1,14 @@
+.blogs {
+
+}
+.blogs ul {
+	list-style-type: none;
+	padding: 0px;
+}
+.blogs ul > li {
+	border-bottom: 1px solid #eee;
+	padding-bottom: 15px;
+}
+.blogs ul > li:last-child {
+	border-bottom: 0px;
+}
